@@ -1,0 +1,11 @@
+body{
+    background-color:#9E9FA5 ;
+}
+
+h1, h2, a{
+    color: #79155B;
+}
+
+p, .list-text, .footer-text {
+    color: #F5F5F5;
+}
